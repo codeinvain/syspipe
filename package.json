@@ -12,6 +12,7 @@
     "LICENSE",
     "binding.gyp",
     "pipe.cc",
+    "dup.cc",
     "test.js"
   ],
   "repository": {
